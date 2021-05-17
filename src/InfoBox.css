@@ -47,3 +47,31 @@
     margin-top: 15px !important;
 }
 
+
+
+@media (max-width: 450px) {
+
+    .MuiTypography-body1 {
+        font-size: 0.7rem !important;
+    }
+
+    .infoBox__newCases {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 390px) {
+
+    .infoBox__newCases {
+        font-size: 1rem;
+    }
+
+}
+
+@media (max-width: 370px) {
+
+    .MuiTypography-body1 {
+        font-size: 0.5rem !important;
+    }
+
+}
